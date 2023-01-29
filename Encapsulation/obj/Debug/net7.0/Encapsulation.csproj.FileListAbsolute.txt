@@ -1,0 +1,15 @@
+/Users/samil/Projects/Encapsulation/Encapsulation/bin/Debug/net7.0/Encapsulation
+/Users/samil/Projects/Encapsulation/Encapsulation/bin/Debug/net7.0/Encapsulation.deps.json
+/Users/samil/Projects/Encapsulation/Encapsulation/bin/Debug/net7.0/Encapsulation.runtimeconfig.json
+/Users/samil/Projects/Encapsulation/Encapsulation/bin/Debug/net7.0/Encapsulation.dll
+/Users/samil/Projects/Encapsulation/Encapsulation/bin/Debug/net7.0/Encapsulation.pdb
+/Users/samil/Projects/Encapsulation/Encapsulation/obj/Debug/net7.0/Encapsulation.csproj.AssemblyReference.cache
+/Users/samil/Projects/Encapsulation/Encapsulation/obj/Debug/net7.0/Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samil/Projects/Encapsulation/Encapsulation/obj/Debug/net7.0/Encapsulation.AssemblyInfoInputs.cache
+/Users/samil/Projects/Encapsulation/Encapsulation/obj/Debug/net7.0/Encapsulation.AssemblyInfo.cs
+/Users/samil/Projects/Encapsulation/Encapsulation/obj/Debug/net7.0/Encapsulation.csproj.CoreCompileInputs.cache
+/Users/samil/Projects/Encapsulation/Encapsulation/obj/Debug/net7.0/Encapsulation.dll
+/Users/samil/Projects/Encapsulation/Encapsulation/obj/Debug/net7.0/refint/Encapsulation.dll
+/Users/samil/Projects/Encapsulation/Encapsulation/obj/Debug/net7.0/Encapsulation.pdb
+/Users/samil/Projects/Encapsulation/Encapsulation/obj/Debug/net7.0/Encapsulation.genruntimeconfig.cache
+/Users/samil/Projects/Encapsulation/Encapsulation/obj/Debug/net7.0/ref/Encapsulation.dll

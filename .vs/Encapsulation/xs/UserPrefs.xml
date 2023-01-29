@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{8873926E-CDF2-4996-84C2-E00EA0BF045A}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Encapsulation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Encapsulation/Invoice.cs">
+    <Files>
+      <File FileName="Encapsulation/Program.cs" Line="14" Column="39" />
+      <File FileName="Encapsulation/Invoice.cs" Line="83" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
